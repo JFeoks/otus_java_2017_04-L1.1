@@ -1,0 +1,3 @@
+ru.otus.Main -> ru.otus.Main:
+    void <init>() -> <init>
+    void main(java.lang.String[]) -> main
