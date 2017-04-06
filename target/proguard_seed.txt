@@ -1,3 +1,0 @@
-ru.otus.Main
-ru.otus.Main: Main()
-ru.otus.Main: void main(java.lang.String[])
